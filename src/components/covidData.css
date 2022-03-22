@@ -1,0 +1,12 @@
+
+.titlename{
+   text-align: center;
+    font-family:cursive;
+    border: 3px solid black;
+}
+th:hover{
+    background-color: rgb(204, 81, 81)!important;
+}
+.death:hover{
+    background-color: red;
+}
