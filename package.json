@@ -1,5 +1,6 @@
 {
   "name": "covid-data",
+  "homepage": "http://SumitMish23.github.io/covid-data",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
